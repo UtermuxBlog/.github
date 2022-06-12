@@ -5,3 +5,5 @@
 **Vercel CDN**: https://vercel.mirrors.utermux.dev  
 
 **https://github.com/termux/termux-packages/wiki/Mirrors#mirrors-by-utermux**
+
+Hosted in San Jose, California, USA. Updated daily.
