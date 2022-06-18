@@ -9,5 +9,3 @@
 **https://github.com/termux/termux-packages/wiki/Mirrors#mirrors-by-utermux**
 
 Hosted in San Jose, California, USA. Updated daily.
-
-Blog(CN): https://blog.utermux.dev
