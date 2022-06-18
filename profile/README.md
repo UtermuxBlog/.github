@@ -2,7 +2,8 @@
 
 **Termux Mirror**: https://mirrors.utermux.dev  
 **Cloudflare CDN**: https://cf.mirrors.utermux.dev  
-**Vercel CDN**: https://vercel.mirrors.utermux.dev  
+**Vercel CDN**: https://vercel.mirrors.utermux.dev 
+**RailWay CDN**: https://railway.mirrors.utermux.dev  
 
 **Feedback on mirror issues here**:https://github.com/UtermuxBlog/Issue/issues/new  
 
