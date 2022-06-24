@@ -13,3 +13,7 @@
 **https://github.com/termux/termux-packages/wiki/Mirrors#mirrors-by-utermux**
 
 Hosted in San Jose, California, USA. Updated daily.
+
+# PGP Fingerprint
+
+* [OpenPGP](https://keys.openpgp.org/vks/v1/by-fingerprint/0232FF43805EB9C557B6EF43CAABE459FE4A7128)
