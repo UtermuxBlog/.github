@@ -16,4 +16,4 @@ Hosted in San Jose, California, USA. Updated daily.
 
 # PGP Fingerprint
 
-![OpenPGP](https://keys.openpgp.org/vks/v1/by-fingerprint/0232FF43805EB9C557B6EF43CAABE459FE4A7128)
+![0232FF43805EB9C557B6EF43CAABE459FE4A7128](https://img.shields.io/badge/PGP-0232%20FF43%20805E%20B9C5%2057B6%20EF43%20CAAB%20E459%20FE4A%207128-green?style=for-the-badge)
