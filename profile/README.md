@@ -8,7 +8,6 @@
 **RailWay**: https://railway.mirrors.utermux.dev   
 **Netlify**: https://netlify.mirrors.utermux.dev  
 **CDN for chinese user**: https://cn.mirrors.utermux.dev  
-**Mirror for Japan user**: https://jp.mirrors.utermux.dev
 
 ![CloudFlare](https://avatars.githubusercontent.com/u/314135?s=100&v=4)![vercel](https://avatars.githubusercontent.com/u/14985020?s=100&v=4)![railway](https://avatars.githubusercontent.com/u/66716858?s=100&v=4)![netlify](https://avatars.githubusercontent.com/u/7892489?s=100&v=4)
 
