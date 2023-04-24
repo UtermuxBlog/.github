@@ -6,7 +6,7 @@
 **Cloudflare CDN**: https://cf.mirrors.utermux.dev  
 **CDN for chinese user**: https://cn.mirrors.utermux.dev  
 
-![CloudFlare](https://avatars.githubusercontent.com/u/314135?s=100&v=4)![vercel](https://avatars.githubusercontent.com/u/14985020?s=100&v=4)![netlify](https://avatars.githubusercontent.com/u/7892489?s=100&v=4)
+![CloudFlare](https://avatars.githubusercontent.com/u/314135?s=100&v=4)
 
 **Feedback on mirror issues here**: https://github.com/UtermuxBlog/Issue/issues/new  
 
