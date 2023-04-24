@@ -4,8 +4,6 @@
 
 **Termux Mirror**: https://mirrors.utermux.dev  
 **Cloudflare CDN**: https://cf.mirrors.utermux.dev  
-**Vercel**: https://vercel.mirrors.utermux.dev    
-**Netlify**: https://netlify.mirrors.utermux.dev  
 **CDN for chinese user**: https://cn.mirrors.utermux.dev  
 
 ![CloudFlare](https://avatars.githubusercontent.com/u/314135?s=100&v=4)![vercel](https://avatars.githubusercontent.com/u/14985020?s=100&v=4)![netlify](https://avatars.githubusercontent.com/u/7892489?s=100&v=4)
